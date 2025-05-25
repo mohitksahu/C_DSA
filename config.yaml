@@ -1,0 +1,22 @@
+topics:
+  - array
+  - matrix
+  - strings
+  - recursion
+  - stack
+  - queue
+  - linked_list
+  - heap
+  - hashing
+  - tree
+  - graph
+  - sliding_window
+  - two_pointer
+  - searching
+  - sorting
+  - dynamic_programming
+  - greedy
+  - backtracking
+schedule:
+  times: ["07:00", "18:00"]
+  high_commit_days: [0, 3, 6]
